@@ -14,13 +14,6 @@ body {
   margin: 0;
 }
 
-.test{
-  color: #630f0f;
-}
-
-.test2{
-  font-size: 50px;
-}
 .header {
   background-image: url(../img/Layer13.png);
   background-size: cover;
